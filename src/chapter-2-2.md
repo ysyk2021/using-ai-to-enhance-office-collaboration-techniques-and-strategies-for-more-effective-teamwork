@@ -1,5 +1,4 @@
-Different Types of AI Techniques and Applications for Collaborative Work
-=======================================================================================================================================
+
 
 AI technology can be applied to a wide range of tasks and workflows in the workplace. This chapter will explore different types of AI techniques and applications for collaborative work.
 

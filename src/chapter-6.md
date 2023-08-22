@@ -1,5 +1,4 @@
-Chapter 6: Evaluating the Impact of AI on Office Collaboration
-==============================================================
+
 
 As organizations increasingly turn to AI as a means to enhance office collaboration, it is important to evaluate the effectiveness and ROI of such implementations. In this chapter, we will explore key performance metrics and goals for AI-enhanced collaborative work and discuss how to measure the impact of AI on office collaboration.
 

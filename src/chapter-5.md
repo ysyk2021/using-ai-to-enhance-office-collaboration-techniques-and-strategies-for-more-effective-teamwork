@@ -1,5 +1,4 @@
-Chapter 5: AI Strategies for Boosting Team Performance
-======================================================
+
 
 AI technology can be a powerful tool for boosting team performance in the office. By leveraging the strengths of AI, teams can achieve significant improvements in efficiency, creativity, and employee engagement. This chapter will explore strategies for using AI to boost team performance.
 

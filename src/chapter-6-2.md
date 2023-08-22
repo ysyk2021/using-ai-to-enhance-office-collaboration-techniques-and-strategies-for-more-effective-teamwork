@@ -1,5 +1,4 @@
-Identifying Key Performance Metrics and Goals for AI-Enhanced Collaborative Work
-================================================================================================================================================
+
 
 In order to evaluate the impact of AI on office collaboration, it is important to identify key performance metrics and goals for AI-enhanced collaborative work. In this chapter, we will discuss some important metrics to consider and how to set specific goals for AI-enhanced collaboration.
 

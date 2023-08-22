@@ -1,5 +1,4 @@
-Tools and Platforms for AI-Enabled Collaborative Work
-====================================================================================================================
+
 
 To effectively leverage the benefits of AI in collaborative work, it is important to have access to user-friendly tools and platforms that integrate with existing workflows and systems. This chapter will explore some of the top tools and platforms for AI-enabled collaborative work.
 

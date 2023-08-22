@@ -1,4 +1,4 @@
-# Enhancing Communication and Coordination with Smart Chatbots and Virtual Assistants
+
 
 ## Introduction
 

@@ -1,5 +1,4 @@
-The Importance of Collaboration in Office Settings
-===========================================================================
+
 
 In today's fast-paced and complex work environment, collaboration is key to achieving success. More than ever before, teams are composed of members with diverse skill sets, different backgrounds, and working from various locations. This chapter will explore the importance of collaboration in office settings.
 
