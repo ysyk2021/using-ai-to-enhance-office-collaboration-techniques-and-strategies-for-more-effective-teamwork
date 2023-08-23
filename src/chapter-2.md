@@ -1,5 +1,4 @@
 
-
 Understanding AI technology is essential to effectively leveraging its benefits for workplace collaboration. This chapter will explore the basic concepts and processes of AI algorithms for workplace collaboration, different types of AI techniques and applications, and tools and platforms for AI-enabled collaborative work.
 
 Basic Concepts and Processes of AI Algorithms for Workplace Collaboration
