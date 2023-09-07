@@ -10,3 +10,7 @@ The chapters that follow will delve deeper into specific topics related to AI-po
 Whether you're a business leader, manager, or team member, this book offers a wealth of knowledge and tools to help you effectively leverage AI-powered collaboration solutions and achieve success. From chatbots and virtual assistants to predictive analytics and natural language processing tools, "Using AI to Enhance Office Collaboration" provides a comprehensive guide to harnessing the power of AI for more effective teamwork.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
