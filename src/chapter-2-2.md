@@ -1,5 +1,4 @@
-Chapter 3: Different Types of AI Techniques and Applications for Collaborative Work
-===================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into various AI techniques and their applications in the context of collaborative work within an office environment. These AI techniques play a pivotal role in optimizing teamwork and fostering more effective collaboration.
 

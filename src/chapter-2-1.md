@@ -1,5 +1,4 @@
-Chapter 1: Basic Concepts and Processes of AI Algorithms for Workplace Collaboration
-====================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts and processes underlying AI algorithms for enhancing office collaboration. We will explore how AI technologies can be harnessed to improve teamwork and productivity within a workplace setting.
 

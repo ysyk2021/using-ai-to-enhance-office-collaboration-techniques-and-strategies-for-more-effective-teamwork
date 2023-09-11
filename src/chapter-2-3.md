@@ -1,5 +1,4 @@
-Chapter 2: Tools and Platforms for AI-Enabled Collaborative Work
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various tools and platforms that facilitate AI-enabled collaborative work within an office environment. These technologies play a crucial role in enhancing teamwork and productivity by harnessing the power of artificial intelligence.
 

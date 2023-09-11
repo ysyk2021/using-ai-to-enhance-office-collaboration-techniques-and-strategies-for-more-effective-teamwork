@@ -1,5 +1,4 @@
-Chapter 14: Creating a Customized Roadmap for AI Collaboration in Your Workplace
-================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will guide you through the process of creating a customized roadmap for AI collaboration in your workplace. Implementing AI technologies to enhance teamwork and collaboration requires careful planning and a strategic approach. A roadmap serves as a guide, outlining the necessary steps, milestones, and actions required to successfully integrate AI into your collaborative work processes. This chapter will provide insights and recommendations on how to create a customized roadmap tailored to your organization's unique needs and objectives.
 
